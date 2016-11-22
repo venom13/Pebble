@@ -1,2 +1,3 @@
 # hello-world
-Deneme
+
+Bu bir denemedir. GitHub öğrenmeye çalışıyorum.
